@@ -1,5 +1,3 @@
 # Kakao clone
 
-CSS got so much better!
-
-HTML & CSS are so much fun!
+html&css를 활용한 kakao talk clone
