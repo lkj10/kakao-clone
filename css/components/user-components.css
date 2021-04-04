@@ -45,6 +45,10 @@
   align-items: flex-end;
 }
 
+.user-component__column img {
+  border-radius: 50%;
+}
+
 .user-component__time {
   margin-bottom: 10px;
   display: block;
